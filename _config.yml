@@ -32,7 +32,7 @@ github_username:  jekyll
 # Build settings
 #theme: minima
 #theme: jekflix
-remote_theme: wowthemesnet/mediumish-theme-jekyll@master
+remote_theme: wowthemesnet/mediumish-theme-jekyll@main
 plugins:
   - jekyll-feed
 
